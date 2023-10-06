@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @james0pritchard
 - 👀 I’m interested in using computer modelling to solve biological models
 - 🌱 I’m currently learning Mathematics at Durham University
-- 💞️ I’m looking to collaborate on my masters project
+- 📄 I’m looking for a graduate job starting from September 2024
 - 📫 How to reach me james.pritch@icloud.com
 
 <!---
