@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @james0pritchard
-- 👀 I’m interested in using computer modelling to solve biological models
-- 🌱 I’m currently learning Mathematics at Durham University
-- 📄 I’m looking for a graduate job starting from September 2024
-- 📫 How to reach me: james.pritch@icloud.com
+Hello there, I’m James Pritchard, a Mathematics Graduate of Durham University interested in using computer modelling to solve biological models. Email interesting job oppportunities to: james.pritch@icloud.com
 
 <!---
 james0pritchard/james0pritchard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
